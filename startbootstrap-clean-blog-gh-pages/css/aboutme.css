@@ -1,0 +1,35 @@
+p{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#top{
+
+}
+
+body{
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+    margin: 50px;
+    padding: 50px;
+    text-align: center;
+}
+
+ol{
+    list-style-position: inside;
+    text-align: center;
+    font-weight: bold;
+}
+
+ul{
+    list-style-position: inside;
+    font-weight: lighter;
+    text-align: right;
+}
+li{
+    list-style-position: inside;
+    text-align: center;
+}
+
+
